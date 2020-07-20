@@ -14,7 +14,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richarddedeus)](https://www.linkedin.com/in/richarddedeus)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/richarddeusweb)](https://twitter.com/richarddeusweb)
 [![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/richarddedeus)](https://www.instagram.com/richarddedeus)
-[![DEV Badge](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/richarddedeus)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521967680525&text=Hello!)](https://api.whatsapp.com/send?phone=5521967680525&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@richarddedeus.dev)](mailto:contato@richarddedeus.dev)
  
