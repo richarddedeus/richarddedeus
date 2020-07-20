@@ -21,14 +21,15 @@
  
 - Acesse o meu site CV [richarddedeus.dev](https://richarddedeus.dev)
 
-Principais Tecnologias: 
+Skills: 
 
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-DarkOrange?style=flat-square&logo=HTML5&logoColor=white&link=https://www.w3schools.com/html5/default.asp)](https://www.w3schools.com/html5/default.asp)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3&logoColor=white&link=https://www.w3schools.com/css3/default.asp)](https://www.w3schools.com/css/default.asp)
-[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0D3655?style=flat-square&logo=Bootstrap&logoColor=white&link=https://www.bootstrap.com)](https://www.bootstrap.com/css/default.asp)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-DarkOrange?style=flat-square&logo=HTML5&logoColor=white&link=https://www.w3schools.com/html5)](https://www.w3schools.com/html5)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3&logoColor=white&link=https://www.w3schools.com/css3)](https://www.w3schools.com/css)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0D3655?style=flat-square&logo=Bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 
 [![PHP Badge](https://img.shields.io/badge/-PHP-DarkBlue?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF4000?style=flat-square&logo=Laravel&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF4000?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com)](https://laravel.com)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-Blue?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com)](https://www.mysql.com)
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
 [![NodeJS Badge](https://img.shields.io/badge/-Nodejs-026e00?style=flat-square&logo=Nodejs&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
