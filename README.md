@@ -26,6 +26,7 @@ Skills:
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-DarkOrange?style=flat-square&logo=HTML5&logoColor=white&link=https://www.w3schools.com/html5)](https://www.w3schools.com/html5)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3&logoColor=white&link=https://www.w3schools.com/css3)](https://www.w3schools.com/css)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0D3655?style=flat-square&logo=Bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
+[![Bulma Badge](https://img.shields.io/badge/-Bulma-0D3655?style=flat-square&logo=Bulma&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 
 [![PHP Badge](https://img.shields.io/badge/-PHP-DarkBlue?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-FF4000?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com)](https://laravel.com)
