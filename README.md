@@ -7,7 +7,7 @@
  
 ## Eu sou Richard de Deus!
 
- <Dev Fullstack PHP/JS />
+ <Dev Fullstack PHP&JS />
  
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-Darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/richarddeusweb)](https://www.facebook.com/richarddeusweb)
