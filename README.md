@@ -8,7 +8,7 @@
 ## Eu sou Richard de Deus!
 
  <Dev Fullstack PHP & JS />
- 
+ <br>
  <div align="center">
     <a href="https://github.com/richarddedeus">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=richarddedeus&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
