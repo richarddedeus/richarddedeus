@@ -9,6 +9,12 @@
 
  <Dev Fullstack PHP & JS />
  
+ <div align="center">
+    <a href="https://github.com/lucasxgb">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasxgb&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxgb&layout=compact&langs_count=7&theme=react"/> 
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxgb&layout=compact&langs_count=7&theme=react"/> 
+   </div>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-Darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/richarddeusweb)](https://www.facebook.com/richarddeusweb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richarddedeus)](https://www.linkedin.com/in/richarddedeus)
