@@ -15,7 +15,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richarddedeus&layout=compact&langs_count=7&theme=react"/> 
     
    </div>
-
+<br><br>
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-Darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/richarddeusweb)](https://www.facebook.com/richarddeusweb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richarddedeus)](https://www.linkedin.com/in/richarddedeus)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/richarddeusweb)](https://twitter.com/richarddeusweb)
