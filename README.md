@@ -38,5 +38,5 @@ Skills:
     <a href="https://github.com/richarddedeus">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=richarddedeus&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richarddedeus&layout=compact&langs_count=7&theme=react"/> 
-    
+    ![](https://github-readme-stats.vercel.app/api/wakatime?username={yourusername}&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
    </div>
