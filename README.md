@@ -23,12 +23,9 @@ Skills:
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-DarkOrange?style=flat-square&logo=HTML5&logoColor=white&link=https://www.w3schools.com/html5)](https://www.w3schools.com/html5)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3&logoColor=white&link=https://www.w3schools.com/css3)](https://www.w3schools.com/css)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0D3655?style=flat-square&logo=Bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
-
-
 [![PHP Badge](https://img.shields.io/badge/-PHP-DarkBlue?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)
 <!--[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF4000?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com)](https://laravel.com)-->
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-Blue?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com)](https://www.mysql.com)
-
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
 <!--[![NodeJS Badge](https://img.shields.io/badge/-Nodejs-026e00?style=flat-square&logo=Nodejs&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org/)](https://pt-br.reactjs.org/)
@@ -38,5 +35,6 @@ Skills:
     <a href="https://github.com/richarddedeus">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=richarddedeus&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richarddedeus&layout=compact&langs_count=7&theme=react"/> 
-   [![](https://github-readme-stats.vercel.app/api/wakatime?username={richarddedeus}&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)]
+  
    </div>
+ 
