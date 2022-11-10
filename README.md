@@ -7,7 +7,7 @@
  
 ## Eu sou Richard de Deus!
 
- <Dev Fullstack PHP & JS />
+
  
  [![Facebook Badge](https://img.shields.io/badge/-Facebook-Darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/richarddeusweb)](https://www.facebook.com/richarddeusweb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richarddedeus)](https://www.linkedin.com/in/richarddedeus)
@@ -26,13 +26,13 @@ Skills:
 
 
 [![PHP Badge](https://img.shields.io/badge/-PHP-DarkBlue?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net)](https://www.php.net)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF4000?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com)](https://laravel.com)
+<!--[![Laravel Badge](https://img.shields.io/badge/-Laravel-FF4000?style=flat-square&logo=Laravel&logoColor=white&link=https://laravel.com)](https://laravel.com)-->
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-Blue?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com)](https://www.mysql.com)
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
-[![NodeJS Badge](https://img.shields.io/badge/-Nodejs-026e00?style=flat-square&logo=Nodejs&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+<!--[![NodeJS Badge](https://img.shields.io/badge/-Nodejs-026e00?style=flat-square&logo=Nodejs&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org/)](https://pt-br.reactjs.org/)
-[![React Native Badge](https://img.shields.io/badge/-React%20Native-5667F9?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)
+[![React Native Badge](https://img.shields.io/badge/-React%20Native-5667F9?style=flat-square&logo=react&logoColor=white&link=https://reactnative.dev/)](https://reactnative.dev/)-->
 
 <div align="center">
     <a href="https://github.com/richarddedeus">
