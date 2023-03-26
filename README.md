@@ -15,7 +15,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55219762514825&text=Hello!)](https://api.whatsapp.com/send?phone=5521967680525&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richard.deus@gmail.com)](mailto:richard.deus@gmail.com)
  
-- Acesse o meu site CV [richarddedeus.dev](https://richarddedeus.dev) ou [richarddedeus.git.io](https://richarddedeus.git.io)
+- Acesse o meu site CV [richarddedeus.dev](https://richarddedeus.dev) ou [richarddedeus.github.io](https://richarddedeus.github.io)
 
 Skills: 
 <div style="display: inline_block">
