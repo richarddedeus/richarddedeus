@@ -1,13 +1,16 @@
 <!--
 **richarddedeus/richarddedeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">-->
  
 # Bem vindo!
  
 ## Eu sou Richard de Deus!
 
-
+<div>
+  <a href="https://github.com/richarddedeus>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=richarddedeus&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richarddedeus&&layout=compact&hide=shell&theme=jolly"/>
+</div>
  
  [![Facebook Badge](https://img.shields.io/badge/-Facebook-Darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/richarddeusweb)](https://www.facebook.com/richarddeusweb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richarddedeus)](https://www.linkedin.com/in/richarddedeus)
