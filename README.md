@@ -11,11 +11,11 @@
  [![Facebook Badge](https://img.shields.io/badge/-Facebook-Darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/richarddeusweb)](https://www.facebook.com/richarddeusweb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richarddedeus)](https://www.linkedin.com/in/richarddedeus)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/richarddeusweb)](https://twitter.com/richarddeusweb)
-[![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/richarddedeus)](https://www.instagram.com/richarddedeus)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521967680525&text=Hello!)](https://api.whatsapp.com/send?phone=5521967680525&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@richarddedeus.dev)](mailto:contato@richarddedeus.dev)
+[![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/richarddedeusti)](https://www.instagram.com/richarddedeus)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55219762514825&text=Hello!)](https://api.whatsapp.com/send?phone=5521967680525&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richard.deus@gmail.com)](mailto:richard.deus@gmail.com)
  
-- Acesse o meu site CV [richarddedeus.dev](https://richarddedeus.dev)
+- Acesse o meu site CV [richarddedeus.dev](https://richarddedeus.dev) ou [richarddedeus.git.io](https://richarddedeus.git.io)
 
 Skills: 
 <div style="display: inline_block">
