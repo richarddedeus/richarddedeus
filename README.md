@@ -32,7 +32,7 @@ Skills:
   <img align="center" alt="Logo Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg">
   <img align="center" alt="Logo Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">-->
 
- 
+ <br><br>
 </div>
 <!--
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-DarkOrange?style=flat-square&logo=HTML5&logoColor=white&link=https://www.w3schools.com/html5)](https://www.w3schools.com/html5)
