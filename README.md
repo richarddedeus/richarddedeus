@@ -47,4 +47,4 @@ Skills:
   
    </div>
 <hr>
-<a href="https://app.rocketseat.com.br/me/richarddedeus"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=richarddedeus&type=card" width="280" alt="Richard de Deus's Rocket ID"/></a>
+
